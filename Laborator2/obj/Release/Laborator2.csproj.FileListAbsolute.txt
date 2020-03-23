@@ -1,0 +1,9 @@
+C:\Users\Dragos\source\repos\Laborator2\bin\Release\Laborator2.exe.config
+C:\Users\Dragos\source\repos\Laborator2\bin\Release\Laborator2.exe
+C:\Users\Dragos\source\repos\Laborator2\bin\Release\Laborator2.pdb
+C:\Users\Dragos\source\repos\Laborator2\obj\Release\Laborator2.csprojAssemblyReference.cache
+C:\Users\Dragos\source\repos\Laborator2\obj\Release\Laborator2.Form1.resources
+C:\Users\Dragos\source\repos\Laborator2\obj\Release\Laborator2.Properties.Resources.resources
+C:\Users\Dragos\source\repos\Laborator2\obj\Release\Laborator2.csproj.GenerateResource.cache
+C:\Users\Dragos\source\repos\Laborator2\obj\Release\Laborator2.exe
+C:\Users\Dragos\source\repos\Laborator2\obj\Release\Laborator2.pdb
